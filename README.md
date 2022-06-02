@@ -8,4 +8,4 @@
 
 ### Enjoy the game [here](https://itzwow.github.io/Simon-Game-Challenge)
 
-**It is not yet mobile compatible **
+** It is not yet mobile compatible **
